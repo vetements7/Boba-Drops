@@ -9,10 +9,10 @@ body {
 	font-size: 30px;
 	color: #0057ee;
 	text-shadow:
-		0 0 5px #00ffff,
-		0 0 10px #00ffff,
-		0 0 20px #00c6ff,
-		0 0 40px #6a00ff;
+	0 0 5px #00ffff,
+	0 0 10px #00ffff,
+	0 0 20px #00c6ff,
+	0 0 40px #6a00ff;
 	background-color: pink;
 	margin: 0;
   min-height: 100vh;
