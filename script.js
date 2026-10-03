@@ -5,7 +5,7 @@ document.getElementById("go").addEventListener("click", () => {
     popup.innerHTML = `
         <div class="popup-box">
             <span>✓</span>
-            <p>I built this from the ground up!</p>
+            <p>I built this very cool website!</p>
             <button onclick="this.parentElement.parentElement.remove()">OK</button>
         </div>
     `;
